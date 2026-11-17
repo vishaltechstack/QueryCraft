@@ -62,8 +62,10 @@ Each challenge file in this repository follows a consistent engineering format:
 
 ## 🔗 Explore My Other SQL Repositories
 
-[![MySQL Mastery Lab](https://img.shields.io/badge/MySQL--Mastery--Lab-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/MySQL-Mastery-Lab)
-[![SQLForge](https://img.shields.io/badge/SQLForge-24292F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/SQLForge)
+| Repository | Focus Area | Description |
+| :--- | :--- | :--- |
+| [![SQLAlchemyLab](https://img.shields.io/badge/SQLAlchemyLab-181717?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/SQLAlchemyLab) | `MySQL 8.0+` `22-Step Curriculum` | Complete step-by-step MySQL tutorial from database creation to triggers, views, indexes, JSON, and ACID transactions. |
+| [![SQLForge](https://img.shields.io/badge/SQLForge-DC2626?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vishaltechstack/SQLForge) | `MySQL 8.0+` `20 Domain Projects` | End-to-end relational database portfolio featuring 20 industry case studies with DDL schemas, seed datasets, and analytical queries. |
 
 ---
 
